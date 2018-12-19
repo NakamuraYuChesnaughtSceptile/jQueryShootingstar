@@ -1,0 +1,16 @@
+@charset "UTF-8";
+#drawseason {
+  background-size: cover;
+  position: fixed;
+  top: 0;
+  object-fit: cover;
+  z-index: -2;
+  background: linear-gradient(#000000, #000000, #080813, #090924, #0c4a4e);
+}
+
+#drawseason2 {
+  position: fixed;
+  top: 0;
+  object-fit: cover;
+  z-index: -1;
+}
