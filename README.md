@@ -14,6 +14,3 @@ A shooting star also flows.<br>
 Since it is still v0.1b, it only loads the file.<br>
 `<link rel=syulesheet href="shootingstar.css">`<br>
 `<script src="shootingstarv01b.js"></script>`
-
-## Licence
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
