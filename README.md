@@ -12,5 +12,5 @@ A shooting star also flows.<br>
 ### v0.1b
 まだv0.1bなのでファイルを読み込むのみです。<br>
 Since it is still v0.1b, it only loads the file.<br>
-`<link rel=syulesheet href="shootingstar.css">`<br>
+`<link rel="stylesheet" href="shootingstar.css">`<br>
 `<script src="shootingstarv01b.js"></script>`
